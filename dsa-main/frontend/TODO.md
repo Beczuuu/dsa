@@ -1,0 +1,3 @@
+*Dodać zdjecia
+*Zmienić czcionki 
+*
