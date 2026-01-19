@@ -110,17 +110,10 @@ Edit `src/data/content.js` to update:
 - Compressed assets
 - CDN-ready
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Create Pull Request
 
 ## 📝 License
 
-© 2025 DSA Management. All rights reserved.
+Page made by Krystian Beczek |beczek.praca@gmail.com| All rights reserved.
 
 ---
 *This is a static frontend application requiring no backend infrastructure.*
