@@ -1,10 +1,5 @@
 # DSA Management - Fleet Management Website
 
-🚗 **Professional fleet management services website** built with React and modern frontend technologies.
-
-## 🎯 Project Overview
-
-Static React website for DSA Management - a company specializing in fleet outsourcing and comprehensive corporate vehicle management. The site provides company information, services overview, and legal pages.
 
 ## 🏗️ Architecture
 
@@ -52,13 +47,13 @@ yarn install
 ```bash
 yarn start
 ```
-Opens [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### Build for Production
 
 ```bash
 yarn build
 ```
+
 Creates optimized production build in `build/` folder.
 
 
@@ -99,6 +94,7 @@ Edit `src/data/content.js` to update:
 ## 📱 Browser Support
 
 - Chrome/Chromium (latest)
+- Opera(latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
